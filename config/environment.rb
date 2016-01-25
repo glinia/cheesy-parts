@@ -2,12 +2,11 @@
 # in the Rakefile, as this file is overwritten on deploy.
 
 PORT = 9000
-DB_HOST = "localhost"
-DB_USER = "team254"
-DB_PASSWORD = "correcthorsebatterystaple"
-DB_DATABASE = "cheesy_parts"
-URL = "http://parts.team254.com"
-GMAIL_USER = "cheesyparts@gmail.com"
-GMAIL_PASSWORD = "correcthorsebatterystaple"
-WORDPRESS_AUTH_URL = "http://www.team254.com/auth/"
-LOGOUT_URL = "http://team254.com"
+DB_HOST = "us-cdbr-iron-east-03.cleardb.net"
+DB_USER = "b7576fafb55f50"
+DB_PASSWORD = "cf2b464c"
+DB_DATABASE = "heroku_419a7248431ac30?reconnect=true"
+URL = "https://cheesy-parts-3501.herokuapp.com/"
+GMAIL_USER = "teiglin77@gmail.com"
+GMAIL_PASSWORD = "FeCQ<6T2mb&&Uz"
+LOGOUT_URL = "https://fremontrobotics.com"
